@@ -1,0 +1,23 @@
+:root {
+  --color-primary: #ffffff;
+  --color-secondary: #000000;
+  --color-tertiary: lightgreen;
+}
+* {
+  transition: all 2s ease-in-out;
+  padding: 0;
+  margin: 0;
+  
+}
+
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color:greenyellow;
+}
+p {
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+.heading {
+  line-height: 2;
+}
